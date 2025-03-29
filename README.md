@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peterchealse
-- 👀 I’m interested in eth, fe, coding.
+- 👀 I’m interested in fe, coding, ai.
 - 🌱 I’m currently learning everything.
 
 <!---
